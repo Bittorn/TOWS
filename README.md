@@ -1,2 +1,2 @@
 # Tales of Wayward Stars
-Tales of Wayward Stars resource repository
+Resources for the Tales of Wayward Stars adventure experience.
